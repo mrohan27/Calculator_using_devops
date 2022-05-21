@@ -8,4 +8,4 @@
         state: started
 
     - name: pull docker image
-      shell: docker pull arnavdeshpande1/cal:v2
+      shell: docker pull rohanmahajan9/cal:v2
